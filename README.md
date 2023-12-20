@@ -33,4 +33,9 @@ Welcome to the Tic-Tac-Toe playground, a simple and interactive game of Xs and O
 
 - This playground is inspired from YouTube (unable to find the source).
 
+## Additional Information
+
+- This project was developed using Xcode and SwiftUI.
+- For issues or questions, contact [(Jas) Jaswitha](mailto:jaswithareddyguntaka@gmail.com).
+
 *Have fun playing Tic-Tac-Toe!* 🚀🎉
